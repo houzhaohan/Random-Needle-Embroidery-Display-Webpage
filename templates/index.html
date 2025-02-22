@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>鲁垛遗韵 - 乱针绣优秀作品展示</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>鲁垛遗韵</h1>
+        <p>乱针绣优秀作品展示</p>
+    </header>
+    <main>
+        <div class="gallery">
+            {% for image in images %}
+                <div class="gallery-item {{ image.orientation }}">
+                    {% if loop.index == 1 %}
+                        <a href="/detail1">
+                            <img src="{{ url_for('static', filename=image.src) }}" alt="{{ image.description }}">
+                        </a>
+                    {% elif loop.index == 2 %}
+                        <a href="/detail2">
+                            <img src="{{ url_for('static', filename=image.src) }}" alt="{{ image.description }}">
+                        </a>
+                    {% elif loop.index == 4 %}
+                        <a href="/detail4">
+                            <img src="{{ url_for('static', filename=image.src) }}" alt="{{ image.description }}">
+                        </a>
+                    {% else %}
+                        <img src="{{ url_for('static', filename=image.src) }}" alt="{{ image.description }}">
+                    {% endif %}
+                    <p>{{ image.description }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </main>
+</body>
+</html>
+
+
