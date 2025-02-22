@@ -12,11 +12,11 @@
 *扬州团市委* 青春扬州（公众号） 链接：https://mp.weixin.qq.com/s/vOURdlnzCeFUXTsDMjTM4A  
 *江苏团省委江苏省学联* 团学苏刊（公众号） 链接：https://mp.weixin.qq.com/s/kTfXgkuLxg462upDax6_wA  
 
-*南农信管院* 南农信管之窗CIM（公众号） 链接：https://mp.weixin.qq.com/s/5M_BQAHfxEQzTHwkFTZH_A
-*南农校团委* 南农青年（公众号） 链接：https://mp.weixin.qq.com/s/XhAwqQqi8rQ-WwWkkb4SaQ
-*南京农业大学* 南京农业大学（公众号）链接：https://mp.weixin.qq.com/s/Qdc62SiBhj6xvvgFfnkhBA
+*南农信管院* 南农信管之窗CIM（公众号） 链接：https://mp.weixin.qq.com/s/5M_BQAHfxEQzTHwkFTZH_A  
+*南农校团委* 南农青年（公众号） 链接：https://mp.weixin.qq.com/s/XhAwqQqi8rQ-WwWkkb4SaQ  
+*南京农业大学* 南京农业大学（公众号）链接：https://mp.weixin.qq.com/s/Qdc62SiBhj6xvvgFfnkhBA  
 
-*华夏日报网* 链接：http://hxrb.gm-jkw.cn/xinwen/6041176.html
-*大学生新闻网* 链接：http://www.daxuejia.com/shsj/shsjhd/166737.html
-*中讯网* 链接：http://www.zxwnews.com/news/2024/0717/124928.html
+*华夏日报网* 链接：http://hxrb.gm-jkw.cn/xinwen/6041176.html  
+*大学生新闻网* 链接：http://www.daxuejia.com/shsj/shsjhd/166737.html  
+*中讯网* 链接：http://www.zxwnews.com/news/2024/0717/124928.html  
 
