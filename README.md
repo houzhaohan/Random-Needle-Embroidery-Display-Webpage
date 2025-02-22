@@ -7,4 +7,5 @@
 
 
 # 报道链接：
-宝应团县委链接: [link]([https://blog.csdn.net/pangGeee?spm=1000.2115.3001.5343](https://mp.weixin.qq.com/s/bBYP2_QTruApeL5jWjj4XA)).
+宝应团县委链接: https://mp.weixin.qq.com/s/bBYP2_QTruApeL5jWjj4XA
+[link]([https://blog.csdn.net/pangGeee?spm=1000.2115.3001.5343](https://mp.weixin.qq.com/s/bBYP2_QTruApeL5jWjj4XA)).
