@@ -9,6 +9,8 @@
 
 ---
 ### 报道链接：
+|媒体|平台|链接|
+|---|---|---|
 |***宝应团县委***|宝应共青团（公众号）|链接: https://mp.weixin.qq.com/s/bBYP2_QTruApeL5jWjj4XA  |
 |***扬州市学联***|扬州市学联（公众号）|链接：https://mp.weixin.qq.com/s/NReUleYaTDDPedeMoqo1tA  |
 ***扬州团市委***   青春扬州（公众号） 链接：https://mp.weixin.qq.com/s/vOURdlnzCeFUXTsDMjTM4A  
