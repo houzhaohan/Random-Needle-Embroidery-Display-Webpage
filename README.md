@@ -1,5 +1,7 @@
 # Random-Needle-Embroidery-Display-Webpage
-### 南京农业大学信息管理学院2024年暑期文化科技卫生三下乡社会实践-“鲁垛遗韵”乱针绣展示网页  
+### 南京农业大学信息管理学院2024年暑期文化科技卫生三下乡社会实践-“鲁垛遗韵”乱针绣展示网页 
+
+College of Information Management, Nanjing Agricultural University, 2024 Summer Cultural, Scientific, Technological, and Health "Three Down to the Countryside" Social Practice - "Luduo Yiyun" Chaotic Needle Embroidery Exhibition Website  
 
 ![photo1](https://github.com/user-attachments/assets/39897d26-d2ab-4c19-9597-2fefa9707bdf)  
 网页截图展示
